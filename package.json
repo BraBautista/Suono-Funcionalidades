@@ -1,0 +1,13 @@
+{
+  "name": "suono-logistic-funcionalidades",
+  "version": "1.0.0",
+  "description": "Proyecto web de eventos y logística - Suono Logistic",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
